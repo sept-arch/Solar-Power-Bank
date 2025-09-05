@@ -19,3 +19,7 @@
   - Right now, the total cost for a unit looks to be about ~$50
 - Using a breadboard to get a rough estimate of the wiring and help with debugging firmware
 - Use Autodesk to plan out the dimensions of the Powerbank and design the enclosure
+
+## Considerations
+- Regulate input so that the Li-ion battery is not overcharged.
+- Make sure the powerbank does not overheat.
