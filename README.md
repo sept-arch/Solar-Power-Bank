@@ -23,3 +23,6 @@
 ## Considerations
 - Regulate input so that the Li-ion battery is not overcharged.
 - Make sure the powerbank does not overheat.
+
+## Status
+- Prototyping with an Arduino UNO and simulating required firmware for voltage regulation
